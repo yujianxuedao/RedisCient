@@ -1,14 +1,3 @@
 # RedisCient
-public class RedisClient{
 
-private int threads;
-private String userName;
-private String passWord;
-
-public String getPasswords(String pwd){
-
- return pwd;
-
- }
-
-}
+this is a a tool to connect to Redis server, and built in Java.
